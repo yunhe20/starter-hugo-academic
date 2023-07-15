@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yun He 贺蕴
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yun
+last_name: He
 
 # Status emoji
 status:
