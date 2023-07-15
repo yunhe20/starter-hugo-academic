@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yun He 贺蕴
+title: Yun He
 
 # Full name (for SEO)
 first_name: Yun
