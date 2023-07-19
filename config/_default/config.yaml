@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Yun He # Website name
 baseURL: 'https://yunhe20.github.io/' # Website URL
 
 ############################
@@ -52,6 +52,7 @@ imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
+  width: 5000
 timeout: 600000
 taxonomies:
   tag: tags
