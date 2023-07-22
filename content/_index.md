@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: |2-
-        - [2023-06] I am awared as the outstanding graduate of Shanghai (Top 3%)!
+        - [2023-06] I am awared as the outstanding graduate student of Shanghai (Top 3%)!
         - [2023-02] First-authored paper [Grad-PU](https://arxiv.org/abs/2304.11846) is accepted by CVPR 2023.
         - [2022-02] First-authored paper [D-PCC](https://arxiv.org/abs/2204.12684) is accepted by CVPR 2022.
     design:
@@ -109,7 +109,7 @@ sections:
           description: ''
           organization: Shanghai Municipal Education Commission
           organization_url: http://study.edu.sh.gov.cn/en/
-          title: 'Outstanding Graduate of Shanghai (Top 3%)'
+          title: 'Outstanding Graduate Student of Shanghai (Top 3%)'
         - date_end: ''
           date_start: '2023-05-20'
           description: ''

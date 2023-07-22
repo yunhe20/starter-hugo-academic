@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student
+role: MPhil in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,5 +80,5 @@ highlight_name: true
 ---
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-Hi, I am Yun He. I received my master degree in computer science from [Fudan University](https://www.fudan.edu.cn/en/) in 2023, supervised by [Prof. Yanwei Fu](http://yanweifu.github.io/) and [Prof. Xiangyang Xue](https://scholar.google.com.hk/citations?user=DTbhX6oAAAAJ&hl=en). During my master study, I also worked closely with [Dr. Danhang Tang](https://scholar.google.com/citations?user=9uxs6G4AAAAJ&hl=en) and [Dr. Yinda Zhang](https://www.zhangyinda.com/) at Google. Prior to that, I obtained my bachelor degree in computer science from [Chongqing University](http://english.cqu.edu.cn/) in 2020. My primary research interest is empowering 3D Vision via machine learning, including 3D geometry processing, 3D recognition and 3D generation. Recently, I also work as a full-time machine learning engineer to improve the recommendation system by advanced machine learning techniques.
+Hi, I am Yun He. I received my master degree in computer science from [Fudan University](https://www.fudan.edu.cn/en/) in 2023, supervised by [Prof. Yanwei Fu](http://yanweifu.github.io/) and [Prof. Xiangyang Xue](https://scholar.google.com.hk/citations?user=DTbhX6oAAAAJ&hl=en). During my master study, I also worked closely with [Dr. Danhang Tang](https://scholar.google.com/citations?user=9uxs6G4AAAAJ&hl=en) and [Dr. Yinda Zhang](https://www.zhangyinda.com/) at Google. Prior to that, I obtained my bachelor degree in computer science from [Chongqing University](http://english.cqu.edu.cn/) in 2020. My primary research interest is empowering 3D vision via machine learning, including 3D geometry processing, 3D recognition and 3D generation. Recently, I also work as a full-time machine learning engineer to improve the recommendation system by advanced machine learning techniques.
 {style="text-align: justify;"}
