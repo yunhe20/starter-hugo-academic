@@ -79,7 +79,7 @@ sections:
           location: Shanghai, China
           date_start: '2023-07-12'
           date_end: ''
-          description: Apply advanced meachine learning techniques for ads ranking and creatives selection in Meituan app.
+          description: Apply advanced meachine learning techniques for ads ranking and creatives selection in MeiTuan app.
         - title: Machine Learning Engineer (Intern)
           company: ByteDance
           company_url: 'https://www.bytedance.com/en/'
@@ -87,7 +87,7 @@ sections:
           location: Shanghai, China
           date_start: '2022-05-01'
           date_end: '2022-08-15'
-          description: Apply machine learning methods to improve the video recommendation system of Douyin (Chinese TikTok) app.
+          description: Apply machine learning methods to improve the video recommendation system of DouYin (Chinese TikTok) app.
     design:
       columns: '2'
   - block: accomplishments
