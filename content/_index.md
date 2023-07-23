@@ -115,7 +115,7 @@ sections:
           description: ''
           organization: Fudan University
           organization_url: https://www.fudan.edu.cn/en/
-          title: 'Outstanding Graduation Thesis of Fudan University (Top 20%)'
+          title: 'Outstanding Graduation Thesis of Fudan University (Top 10%)'
         - date_end: ''
           date_start: '2022-01-16'
           description: ''
