@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MPhil in CS
+role: M.Phil in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,10 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MPhil in Computer Science
+    - course: M.Phil in Computer Science
       institution: Fudan University
       year: 2020-2023
-    - course: BSc in Computer Science
+    - course: B.Eng in Computer Science
       institution: Chongqing University
       year: 2016-2020
 
