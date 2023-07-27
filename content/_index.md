@@ -17,8 +17,8 @@ sections:
       title: News
       text: |2-
         - [2023-06] I am awared as the outstanding graduate student of Shanghai (Top 3%)!
-        - [2023-02] First-authored paper [Grad-PU](https://arxiv.org/abs/2304.11846) is accepted by CVPR 2023.
-        - [2022-02] First-authored paper [D-PCC](https://arxiv.org/abs/2204.12684) is accepted by CVPR 2022.
+        - [2023-02] Paper [Grad-PU](https://arxiv.org/abs/2304.11846) is accepted by CVPR 2023. Code is avaliable at [Github](https://github.com/yunhe20/Grad-PU).
+        - [2022-02] Paper [D-PCC](https://arxiv.org/abs/2204.12684) is accepted by CVPR 2022. Code is avaliable at [Github](https://github.com/yunhe20/D-PCC).
     design:
       columns: '1'
   # - block: collection
@@ -79,7 +79,7 @@ sections:
           location: Shanghai, China
           date_start: '2023-07-12'
           date_end: ''
-          description: Apply advanced meachine learning techniques for ads ranking and creatives selection in MeiTuan app.
+          description: Apply advanced meachine learning techniques for ads ranking and creative selection in MeiTuan app.
         - title: Machine Learning Engineer (Intern)
           company: ByteDance
           company_url: 'https://www.bytedance.com/en/'

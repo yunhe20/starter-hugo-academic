@@ -3,7 +3,7 @@ title: 'Density-preserving Deep Point Cloud Compression (CVPR 2022)'
 
 
 summary: |2-
-  **Yun He**, Xinlin Ren, Danhang Tang, Yinda Zhang, Xiangyang Xue, Yanwei Fu
+  **Yun He***, Xinlin Ren*, Danhang Tang, Yinda Zhang, Xiangyang Xue, Yanwei Fu
 
 # A novel deep point cloud compression method that preserves local density information. **Accepted by CVPR 2022.**
 
@@ -12,12 +12,17 @@ summary: |2-
 date: '2022-06-29T00:00:00Z'
 
 authors:
-  - "**admin**"
-  - Xinlin Ren
+  - Yun He*
+  - Xinlin Ren*
   - Danhang Tang
   - Yinda Zhang
   - Xiangyang Xue
   - Yanwei Fu
+
+# Author notes (optional)
+# author_notes:
+#   - '*'
+#   - '*'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
