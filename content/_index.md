@@ -79,7 +79,7 @@ sections:
           location: Shanghai, China
           date_start: '2023-07-12'
           date_end: ''
-          description: Apply advanced meachine learning techniques for ads ranking and creative selection in MeiTuan app.
+          description: Apply advanced meachine learning techniques to improve the advertisement recommendation system of MeiTuan app.
         - title: Machine Learning Engineer (Intern)
           company: ByteDance
           company_url: 'https://www.bytedance.com/en/'
