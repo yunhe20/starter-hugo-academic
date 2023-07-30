@@ -27,9 +27,9 @@ authors:
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Overview
-  focal_point: 
+# image:
+#   caption: Overview
+#   focal_point: 
 
 # links:
 #   - icon: twitter
